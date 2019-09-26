@@ -1,4 +1,4 @@
-package jsp05;
+package jsp05_day1;
 
 public class HelloWorld {
 	public static void main(String[] args) {
